@@ -18,7 +18,7 @@
 <br />
 
 <p align="left">
-  <a href="www.linkedin.com/in/harshit-ingavale-5b142632a/" target="_blank">
+  <a href="https://www.linkedin.com/in/harshit-ingavale-5b142632a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
