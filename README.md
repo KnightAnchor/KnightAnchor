@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Ingavale</h1>
 <h3 align="center">Python Developer | Backend & AI Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 ## 🚀 About Me
@@ -21,17 +18,17 @@
 <br />
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="www.linkedin.com/in/harshit-ingavale-5b142632a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/your-leetcode/" target="_blank">
+  <a href="https://leetcode.com/u/Harshit_Ingavale/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://twitter.com/your-twitter/" target="_blank">
+  <a href="https://x.com/harshitingavale?t=UDIW5_iCgpbEMi55VeJdBg&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
   </a>
 </p>
