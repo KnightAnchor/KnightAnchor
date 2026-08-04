@@ -9,13 +9,10 @@
 - 🌱 Currently learning **Flask**, **DSA**, **Machine Learning**, and Git/GitHub workflows
 - 👯 Open to collaborating on **Python**, **backend**, and **open source projects**
 - 📫 Reach me at harshitingavale45@gmail.com
-<br/>
-<br/>
 
----
+
 ## 🤝 Connect With Me
 
-<br />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harshit-ingavale-5b142632a" target="_blank">
@@ -32,8 +29,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
   </a>
 </p>
-
-<br />
 <br />
 
 ---
@@ -61,10 +56,6 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
-
-
-
-
 
 ---
 
