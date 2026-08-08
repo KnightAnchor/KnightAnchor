@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshit Ingavale</h1>
-<h3 align="center">Python Developer | Backend & AI Learner</h3>
+<h3 align="center">Backend & Full-Stack Developer | AI & ML Undergrad</h3>
 
 
 ---
 ## 🚀 About Me
 
-- 🎯 Interested in **Backend Development**, **Machine Learning**, and **AI-powered applications**
-- 🌱 Currently learning **Flask**, **DSA**, **Machine Learning**, and Git/GitHub workflows
-- 👯 Open to collaborating on **Python**, **backend**, and **open source projects**
+- 🎯 Focused on Backend Development, Full-Stack Engineering, and AI/ML
+- 🌱 Currently strengthening DSA, React, Java, Spring Boot, Linux, and Git/GitHub
+- 🤖 Interested in building AI-powered applications and real-world software
+- 🔨 I learn by building projects and solving problems, not just following tutorials
+- 👯 Open to collaborating on Backend, Full-Stack, AI/ML, and Open Source projects
 - 📫 Reach me at harshitingavale45@gmail.com
 
 
@@ -63,11 +65,15 @@
 
 ## 🎯 Current Focus
 
-- Strengthening **Python** and **backend fundamentals**
-- Building **real-world Python** and **AI-based projects**
-- Improving **problem-solving** and **DSA**
-- Exploring **machine learning** through hands-on development
-- Preparing for **internships** and **open-source contributions**
+My current goal is to become a strong software engineer, not just collect technologies.
+
+I'm focusing on:
+
+- Building solid CS fundamentals
+- Getting better at DSA and problem solving
+- Developing production-oriented backend skills
+- Building and deploying full-stack applications
+- Applying AI/ML to useful software
 
 > *If you are going through hell, keep going!.*
 
