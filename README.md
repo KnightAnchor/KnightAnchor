@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Ingavale</h1>
 <h3 align="center">Backend & Full-Stack Developer | AI & ML Undergrad</h3>
 
-
 ---
 ## 🚀 About Me
 
