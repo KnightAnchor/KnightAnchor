@@ -1,8 +1,18 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Harshit Ingavale</h1>
 <h3 align="center">Backend & Full-Stack Developer | AI & ML Undergrad</h3>
 
----
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+<img width="850" alt="Programmer"
+src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🚀 About Me
 
 - 🎯 Focused on Backend Development, Full-Stack Engineering, and AI/ML
 - 🌱 Currently strengthening DSA, React, Java, Spring Boot, Linux, and Git/GitHub
@@ -32,35 +42,17 @@
 </p>
 <br />
 
----
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</p>
-
-### Web & Tools
-<img src="https://skillicons.dev/icons?i=html,css,flask,django,fastapi,git,github" />
-
-<p>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🛠️ Technolgies and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,react,tailwind,mysql,firebase,github,opencv,postman,vscode,figma,git,linux,npm&perline=6" />
+  </a>
 </p>
 
 
-### ML / Data
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
----
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Current Focus
 
@@ -75,4 +67,4 @@ I'm focusing on:
 - Applying AI/ML to useful software
 
 > *If you are going through hell, keep going!.*
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
