@@ -1,6 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Harshit Ingavale</h1>
-<h3 align="center">Backend & Full-Stack Developer | AI & ML Undergrad</h3>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=350&size=22&duration=3000&pause=820&color=7DF7DF&background=A66AFF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;AI+%26+ML+Enthusiast" alt="Typing SVG" /></a>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -46,7 +50,7 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
 🛠️ Technolgies and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,cpp,html,css,js,react,tailwind,mysql,firebase,github,opencv,postman,vscode,figma,git,linux,npm&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,idea,html,css,react,tailwind,mysql,firebase,github,opencv,postman,vscode,figma,git,linux,npm,obsidian&perline=6" />
   </a>
 </p>
 
