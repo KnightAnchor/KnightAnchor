@@ -16,20 +16,20 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🚀 About Me
+<h1 align="center">About Me</h1>
 
 - 🎯 Focused on Backend Development, Full-Stack Engineering, and AI/ML
-- 🌱 Currently strengthening DSA, React, Java, Spring Boot, Linux, and Git/GitHub
+- 🌱 Currently strengthening DSA,Python, React, JavaScript,Java and Git/GitHub
 - 🤖 Interested in building AI-powered applications and real-world software
-- 🔨 I learn by building projects and solving problems, not just following tutorials
+- 🔨 I learn by building projects and solving problems
 - 👯 Open to collaborating on Backend, Full-Stack, AI/ML, and Open Source projects
 - 📫 Reach me at harshitingavale45@gmail.com
+---
+
+<h1 align="center">🤝Connect with me</h1>
 
 
-## 🤝 Connect With Me
-
-
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/harshit-ingavale-5b142632a" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
@@ -58,17 +58,18 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Focus
-
-My current goal is to become a strong software engineer, not just collect technologies.
+<h1 align="center">🎯 Current Focus</h1>
+<p align="center">
+My current goal is to become a strong software engineer, with good fundamentals.
 
 I'm focusing on:
 
 - Building solid CS fundamentals
 - Getting better at DSA and problem solving
 - Developing production-oriented backend skills
-- Building and deploying full-stack applications
+- Building and full-stack applications
 - Applying AI/ML to useful software
 
 > *If you are going through hell, keep going!.*
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
