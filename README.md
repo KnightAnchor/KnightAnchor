@@ -18,11 +18,11 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">About Me</h1>
 
-- 🎯 Focused on Backend Development, Full-Stack Engineering, and AI/ML
-- 🌱 Currently strengthening DSA,Python, React, JavaScript,Java and Git/GitHub
+- 🎯 Focused on Backend Development, Full-Stack Engineering, and AI & ML
+- 🌱 Currently strengthening DSA, Python, MERN, Java
 - 🤖 Interested in building AI-powered applications and real-world software
 - 🔨 I learn by building projects and solving problems
-- 👯 Open to collaborating on Backend, Full-Stack, AI/ML, and Open Source projects
+- 👯 Open to collaborating on Backend, Full-Stack, AI & ML, and Open Source projects
 - 📫 Reach me at harshitingavale45@gmail.com
 ---
 
