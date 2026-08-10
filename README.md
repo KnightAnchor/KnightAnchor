@@ -47,10 +47,10 @@ src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gi
 <br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🛠️ Technolgies and Tools
+<h1 align="center">🛠️ Technolgies and Tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,idea,html,css,react,tailwind,mysql,firebase,github,opencv,postman,vscode,figma,git,linux,npm,obsidian&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,html,css,react,tailwind,django,flask,mysql,firebase,github,opencv,postman,vscode,idea,pycharm,figma,git,linux,npm,heroku,obsidian&perline=6" />
   </a>
 </p>
 
